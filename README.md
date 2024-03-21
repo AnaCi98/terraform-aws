@@ -1,3 +1,3 @@
 # Curso Terraform
 
-Laboratorio para curso de Terraform 2
+Laboratorio para curso de Terraform con Git
